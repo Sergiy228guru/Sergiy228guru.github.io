@@ -1,0 +1,10 @@
+h1 {  
+    color: rgb(88, 88, 88);
+}
+
+main.menu-item > li {
+    line-height: 1.6;
+    font-size: 18pt;
+    font-weight: bold;
+}
+
