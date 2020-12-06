@@ -2,10 +2,16 @@ h1 {
     color: rgb(88, 88, 88);
 }
 
-main.menu-item {
+li {
+    color: rgb(88, 88, 88);
+    line-height: 1.5;
+    font-size: 16pt;
+}
+
+.main.menu-item > li {
     color: rgb(88, 88, 88);
     line-height: 1.6;
-    font-size: 28pt;
+    font-size: 18pt;
     font-weight: bold;
 }
 
