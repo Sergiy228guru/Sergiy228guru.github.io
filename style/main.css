@@ -28,3 +28,7 @@ main.menu-item li {
     line-height: 1.;
     font-size: 16pt;
 }
+
+main.menu-item li:hover {
+    background-color: rgb(53, 50, 50);
+}
