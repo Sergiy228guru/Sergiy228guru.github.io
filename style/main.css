@@ -1,13 +1,17 @@
 h1 {  
+
     color: rgb(88, 88, 88);
+
 }
 
 li { 
+    
     background-color: rgb(0, 0, 0);
     color: rgb(255, 251, 0);
     line-height: 1.5;
     font-size: 16pt;
     display: inline-block;
+
 }
  
 main.menu-item li { 
@@ -15,6 +19,7 @@ main.menu-item li {
     line-height: 1.6;
     font-size: 18pt;
     font-weight: bold;
+
 }
 
 main.menu-item h2 {
@@ -22,13 +27,9 @@ main.menu-item h2 {
     font-size: 20pt;
 }
 
-main.menu-item li {
-    
-    color: rgb(88, 88, 88);
-    line-height: 1.;
-    font-size: 16pt;
-}
 
-main.menu-item li:hover {
+.main.menu-item li :hover {
+
     background-color: rgb(53, 50, 50);
+
 }
