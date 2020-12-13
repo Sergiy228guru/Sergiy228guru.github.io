@@ -34,3 +34,12 @@ h2 {
 
 }
 
+.box-first {
+    background-color:rgb(153, 153, 153);
+    border: dotted 4px rgb(75, 67, 67);
+}
+
+.box-second {
+    background-color: rgb(75, 67, 67);
+    border: dotted 4px rgb(153, 153, 153);
+}
