@@ -1,0 +1,20 @@
+.main-menu-item{
+    border: solid 3px blue;
+    margin: 5px;
+}
+
+.box{
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    width: 100px;
+    height: 100px;
+    transition: width 1s height 1s backgroud-color 0.01s;
+}
+
+.box:hover {
+    background-color:  rgb(53, 50, 50);
+    width: 200px;
+    height: 200px;
+    transform: rotate(180deg);
+}
